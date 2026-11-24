@@ -1,6 +1,6 @@
 .venv/
 .env
-data/raw/
-data/interim/
 __pycache__/
 *.pdf
+/data/raw/
+/data/interim/
